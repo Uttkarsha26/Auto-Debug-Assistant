@@ -4,6 +4,8 @@ An AI-powered debugging assistant that analyzes your ML error logs and training 
 
 
 🚀 Demo
+<img width="1777" height="919" alt="Screenshot 2026-05-12 175226" src="https://github.com/user-attachments/assets/937712b4-d059-4925-b31f-869707fe932a" /><img width="1890" height="981" alt="Screenshot 2026-05-12 174904" src="https://github.com/user-attachments/assets/f25acaad-4e19-4f64-b8a8-bcfb1d5a38ad" />
+
 
 
 🧩 Problem It Solves

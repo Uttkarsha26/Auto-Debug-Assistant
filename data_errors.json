@@ -1,0 +1,12 @@
+[
+  {
+    "error": "CUDA out of memory",
+    "cause": "Batch size too large for GPU",
+    "fix": "Reduce batch size, use gradient checkpointing"
+  },
+  {
+    "error": "Input contains NaN",
+    "cause": "Missing values in dataset not handled",
+    "fix": "Use df.fillna() or df.dropna() before training"
+  }
+]

@@ -1,0 +1,38 @@
+# FastAPI
+pip install fastapi
+
+# Uvicorn Server
+pip install uvicorn
+
+# LangChain
+pip install langchain
+
+# LangChain Groq Integration
+pip install langchain-groq
+
+# Python Dotenv
+pip install python-dotenv
+
+# Pydantic
+pip install pydantic
+
+# Streamlit
+pip install streamlit
+
+# Requests
+pip install requests
+
+# OpenAI (optional)
+pip install openai
+
+# LangChain OpenAI (optional)
+pip install langchain-openai
+
+# Google Generative AI (optional)
+pip install google-generativeai
+
+# LangChain Google GenAI (optional)
+pip install langchain-google-genai
+
+#single line command - 
+pip install fastapi uvicorn langchain langchain-groq python-dotenv pydantic streamlit requests
